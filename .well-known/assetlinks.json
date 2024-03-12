@@ -1,0 +1,37 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fan.pasch.xg.dev",
+      "sha256_cert_fingerprints":
+      ["8F:5B:16:A8:44:B9:49:27:E5:CE:CE:F6:5F:45:39:ED:B0:D9:BB:7A:65:6A:9C:AD:A8:61:6E:13:95:35:CF:DA"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fan.pasch.p_asch",
+      "sha256_cert_fingerprints":
+      ["8F:5B:16:A8:44:B9:49:27:E5:CE:CE:F6:5F:45:39:ED:B0:D9:BB:7A:65:6A:9C:AD:A8:61:6E:13:95:35:CF:DA"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fan.pasch.xg.stg",
+      "sha256_cert_fingerprints":
+      ["8F:5B:16:A8:44:B9:49:27:E5:CE:CE:F6:5F:45:39:ED:B0:D9:BB:7A:65:6A:9C:AD:A8:61:6E:13:95:35:CF:DA"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fan.pasch.xgalx",
+      "sha256_cert_fingerprints":
+      ["8F:5B:16:A8:44:B9:49:27:E5:CE:CE:F6:5F:45:39:ED:B0:D9:BB:7A:65:6A:9C:AD:A8:61:6E:13:95:35:CF:DA"]
+    }
+  }
+]

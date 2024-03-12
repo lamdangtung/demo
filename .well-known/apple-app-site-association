@@ -1,0 +1,23 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "NCSD4BKJ5D.fan.pasch.xg.dev",
+        "paths": ["*"]
+      },
+      {
+        "appID": "NCSD4BKJ5D.fan.pasch.sample",
+        "paths": ["*"]
+      },
+      {
+        "appID": "NCSD4BKJ5D.fan.pasch.xg.stg",
+        "paths": ["*"]
+      },
+      {
+        "appID": "6CDL88Q495.fan.pasch.xg",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
